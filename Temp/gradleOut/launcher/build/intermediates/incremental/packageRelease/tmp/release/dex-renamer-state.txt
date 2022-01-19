@@ -1,0 +1,4 @@
+#Wed Jan 19 12:58:07 YEKT 2022
+base.0=D\:\\Shirt and logos\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
